@@ -127,25 +127,6 @@ This demonstrates a strong balance between precision and recall in detecting fra
 
 ---
 
-
-## ▶️ How to Run the Project
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/islam_projects.git
-
-# Navigate to the project folder
-cd islam_projects
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python main.py
-```
-
----
-
 ## 👤 Author
 
 **Islam Soussi**
