@@ -16,8 +16,8 @@ The model focuses on optimizing the **F1-score**, ensuring a balance between:
 
 The dataset contains credit card transactions with labeled classes:
 
-0 → Legitimate transaction**
-1 → Fraudulent transaction**
+* 0 → Legitimate transaction
+* 1 → Fraudulent transaction
 
 The data is highly imbalanced, which makes fraud detection a challenging task.
 
